@@ -1,6 +1,8 @@
 
 I create VR mods for older games, and I also work on improving existing VR mods and software.
 
+Perhaps you can support me on [Ko-fi](https://ko-fi.com/shadowmanxr)
+
 <!--
 **ShadowManXR/ShadowManXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
